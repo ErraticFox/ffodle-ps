@@ -22,6 +22,10 @@ OR
 
 Double-click "run_dl-vid"
 
+--------------------
+
+If the opperation was successful, it will be copied to your clipboard. The file location will be inside the scripts folder in "Downloads"
+
 =====================
 ERROR REPORTING
 =====================
