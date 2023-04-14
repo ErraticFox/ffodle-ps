@@ -1,0 +1,1 @@
+﻿^d:: Run "wt powershell " a_scriptdir "\dl-vid.ps1"
